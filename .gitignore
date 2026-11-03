@@ -1,0 +1,16 @@
+# 产物与本地文件
+Work/
+*.log
+*.tmp
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 编辑器
+.vscode/
+.idea/
+
+# 本地治理状态
+.office-claw/
