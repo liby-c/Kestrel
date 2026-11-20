@@ -1,0 +1,11 @@
+Kestrel
+Copyright 2026 Liby
+
+This product includes third-party components.
+See THIRD_PARTY_NOTICES.md for details.
+
+Based on Tencent Zhuque Lab AI-Infra-Guard
+(https://github.com/Tencent/AI-Infra-Guard), licensed under the Apache
+License, Version 2.0. See skills/cve-triage/data/aig-vuln/NOTICE,
+skills/recon/data/aig-fingerprints/NOTICE, and
+skills/ai-mcp-security/data/eval-datasets/NOTICE for upstream notices.
